@@ -1,7 +1,7 @@
 # First Year Data Analysis
 
 ## Welcome to my First Year Data Analysis Code Repository!
-There's lots to see and do in this merry land. Special thanks to the Python ```uncertainties``` package for eliminating the need for me to ever calculate uncertainties by hand, like some sort of Neanderthal. If you don't already have this package installed, or are some degenerate that uses Sypder, go to your Terminal on your respective operating system (on Windows, this is Win+R, then type "cmd"; on Mac, this is Cmd+Space, then type "terminal"), and type the following command:
+There's lots to see and do in this merry land. Special thanks to the Python ```uncertainties``` package for eliminating the need for me to ever calculate uncertainties by hand, like some sort of Neanderthal. If you don't already have this package installed, or for some reason use Sypder, go to your Terminal on your respective operating system (on Windows, this is Win+R, then type "cmd"; on Mac, this is Cmd+Space, then type "terminal"), and type the following command:
 
 ```
 pip install uncertainties
@@ -9,7 +9,7 @@ pip install uncertainties
 
 
 ### Capacitance Data Analysis
-You can find this under the aptly-named ```capacitance-data-analysis.py```. You should be able to obtain plots that look something along these lines. If you don't, you probably have shit data. Don't go chasing me.
+You can find this under the aptly-named ```capacitance-data-analysis.py```. You should be able to obtain plots that look something along these lines.
 
 ![scd](https://user-images.githubusercontent.com/41821907/145357108-f2b705be-6c1f-4a08-84de-578167f07469.png)
 ![scd-linear](https://user-images.githubusercontent.com/41821907/145357110-12a68086-97e7-495c-8839-94da9715f260.png)
