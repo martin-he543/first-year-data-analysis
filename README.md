@@ -5,6 +5,7 @@ There's lots to see and do in this merry land. Special thanks to the Python ```u
 
 ```
 pip install uncertainties
+conda install uncertainties
 ```
 
 
