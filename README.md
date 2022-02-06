@@ -31,4 +31,12 @@ My magnum opus. Using ```diffraction-data-analysis-b-altered.py``` contains ways
 Some output along these lines is expected from the file ```lenses-data-analysis.py```:
 ![M vs s  Python](https://user-images.githubusercontent.com/41821907/145358208-7150f2f2-fa99-4259-8496-e44403210b4e.png)
 
+### Interferometry Data Analysis
+```tumbleweed```
 
+### Rydberg Data Analysis
+Some output along these lines is expected from the file ```rydberg-data-analysis.py```:
+![red](https://raw.githubusercontent.com/martin-he543/lab-report-spectrometry/main/red.png)
+![cyan](https://raw.githubusercontent.com/martin-he543/lab-report-spectrometry/main/cyan.png)
+![violet](https://raw.githubusercontent.com/martin-he543/lab-report-spectrometry/main/violet.png)
+![final](https://raw.githubusercontent.com/martin-he543/lab-report-spectrometry/main/rydberg.png)
