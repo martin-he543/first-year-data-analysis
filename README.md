@@ -5,7 +5,14 @@ There's lots to see and do in this merry land. Special thanks to the Python ```u
 
 ```
 pip install uncertainties
+pip install pillow
+pip install opencv-python
+```
+Alternatively, in Anaconda, type:
+```
 conda install uncertainties
+conda install pillow
+conda install opencv-python
 ```
 
 
