@@ -43,3 +43,14 @@ Some output along these lines is expected from the file ```rydberg-data-analysis
 
 ### Not So Simple Pendulum Data Analysis
 No further comment will be made about this data analysis. Find at  ```nss-pendulum-data-analysis-__________.py```:
+![ds1-curves](https://github.com/martin-he543/first-year-data-analysis/blob/main/graphs/Experiment%201%20Preliminary%20Curves.png)
+![ds1-plots](https://github.com/martin-he543/first-year-data-analysis/blob/main/graphs/Experiment%201%20Preliminary%20Plots.png)
+![ds1-ang](https://github.com/martin-he543/first-year-data-analysis/blob/main/graphs/Experiment%201:%20Angular%20Amplitude%20vs.%20Period%2C%20Data%20Series%201.png)
+![ds2-curves](https://github.com/martin-he543/first-year-data-analysis/blob/main/graphs/Experiment%201%20Data%20Series%202%20Curves.png)
+![ds2-plots](https://github.com/martin-he543/first-year-data-analysis/blob/main/graphs/Experiment%201%20Data%20Series%202%20Plots.png)
+![ds2-ang](https://github.com/martin-he543/first-year-data-analysis/blob/main/graphs/Experiment%201:%20Angular%20Amplitude%20vs.%20Period%2C%20Data%20Series%202%20%5BAmended%5D.png)
+
+![ds3-curves](https://github.com/martin-he543/first-year-data-analysis/blob/main/graphs/Experiment%202%20Curves.png)
+![ds3-plots](https://github.com/martin-he543/first-year-data-analysis/blob/main/graphs/Experiment%202%20Plots.png)
+![ds3-dens](https://github.com/martin-he543/first-year-data-analysis/blob/main/graphs/Experiment%202:%20Density%20vs.%20Period%C2%AF%C2%B2.png)
+
