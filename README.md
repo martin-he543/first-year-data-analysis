@@ -18,7 +18,7 @@ You can find this under the aptly-named ```capacitance-data-analysis.py```. You 
 ![lcd-linear](https://user-images.githubusercontent.com/41821907/145357105-2f4a15ec-5e5c-4a7a-a76f-a187b0d8468d.png)
 
 ### Diffraction Data Analysis
-My magnum opus. Using ```diffraction-data-analysis-b-altered.py``` contains ways you can correct the curve_fit obtained from Scipy to make it better fit the curve through applying phase shifts, vertical and horizontal scalings.
+My magnum opus. Using ```diffraction-data-analysis-b-manual.py``` contains ways you can correct the curve_fit obtained from Scipy to make it better fit the curve through applying phase shifts, vertical and horizontal scalings.
 
 ![ss-profile-a](https://user-images.githubusercontent.com/41821907/145357585-95d3f953-5098-4224-bfef-b53912d7a16f.png)
 ![ds-profile-b](https://user-images.githubusercontent.com/41821907/145357577-8249dc9f-843c-4a86-8c26-14b640ded473.png)
@@ -40,3 +40,6 @@ Some output along these lines is expected from the file ```rydberg-data-analysis
 ![cyan](https://raw.githubusercontent.com/martin-he543/lab-report-spectrometry/main/cyan.png)
 ![violet](https://raw.githubusercontent.com/martin-he543/lab-report-spectrometry/main/violet.png)
 ![final](https://raw.githubusercontent.com/martin-he543/lab-report-spectrometry/main/rydberg.png)
+
+### Not So Simple Pendulum Data Analysis
+No further comment will be made about this data analysis. Find at  ```nss-pendulum-data-analysis-__________.py```:
