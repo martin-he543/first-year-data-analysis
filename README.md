@@ -54,3 +54,10 @@ No further comment will be made about this data analysis. Find at  ```nss-pendul
 ![ds3-plots](https://github.com/martin-he543/first-year-data-analysis/blob/main/graphs/Experiment%202%20Plots.png)
 ![ds3-dens](https://github.com/martin-he543/first-year-data-analysis/blob/main/graphs/Experiment%202:%20Density%20vs.%20Period%C2%AF%C2%B2.png)
 
+### LCR Data Analysis
+![a1](https://github.com/martin-he543/first-year-data-analysis/blob/main/graphs/amplitude%20-%201%CE%A9.png)
+![a2](https://github.com/martin-he543/first-year-data-analysis/blob/main/graphs/amplitude%20-%202%CE%A9.png)
+![a3](https://github.com/martin-he543/first-year-data-analysis/blob/main/graphs/amplitude%20-%203%CE%A9.png)
+![p1](https://github.com/martin-he543/first-year-data-analysis/blob/main/graphs/phase%20-%201%CE%A9.png)
+![p2](https://github.com/martin-he543/first-year-data-analysis/blob/main/graphs/phase%20-%202%CE%A9.png)
+![p3](https://github.com/martin-he543/first-year-data-analysis/blob/main/graphs/phase%20-%203%CE%A9.png)
